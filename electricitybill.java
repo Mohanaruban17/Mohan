@@ -85,5 +85,3 @@ D:\ >java Ebill
  Previous Month Reading = 3000.0
  Total units = 1000.0
  Total bill = RS 6000.0
-RESULT:
-Thus the java program to generate electrici
